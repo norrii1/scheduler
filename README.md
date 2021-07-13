@@ -1,6 +1,6 @@
 
   # Work Day Scheduler
-  ## link: 
+  ## link: https://norrii1.github.io/scheduler/
 ## Description
 🔍  A simple calander that allows users to save events for each hour of the day. 
 ## Tests
